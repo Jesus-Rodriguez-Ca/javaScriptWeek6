@@ -155,6 +155,7 @@ p{
     }
     .logo{
         grid-column: 2 / 3;
+        color: white;
     }
     nav{
         all: unset;
@@ -269,11 +270,6 @@ img.googledoc{
     width:30%;
     margin-bottom: 60px;
 }
-
-
-.logo{
-    color:White;
-}
 .mainLogo{
-    color:black;
+    color:#2d2d2d;
 }
